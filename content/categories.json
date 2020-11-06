@@ -31,18 +31,6 @@
       "icon": "₿"
     },
     {
-      "slug": "trends",
-      "name": "Trends",
-      "description": "best trends tools",
-      "icon": "📈"
-    },
-    {
-      "slug": "ideas",
-      "name": "Ideas",
-      "description": "best idea generation tools",
-      "icon": "💡"
-    },
-    {
       "slug": "design",
       "name": "Design",
       "description": "best designs tools",
