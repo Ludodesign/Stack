@@ -55,18 +55,6 @@
       "icon": "🍀"
     },
     {
-      "slug": "books",
-      "name": "Books",
-      "description": "best books",
-      "icon": "📚"
-    },
-    {
-      "slug": "food",
-      "name": "Food",
-      "description": "best resources for food lovers",
-      "icon": "🥑"
-    },
-    {
       "slug": "learning",
       "name": "Learning",
       "description": "best learning tools",
